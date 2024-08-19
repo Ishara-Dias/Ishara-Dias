@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF4500&width=600&height=50&lines=Hi👋,+I'm+Ishara+Dias;Undergraduate+at+NSBM+Green+University;&center=true&vCenter=true&size=25&pause=2000&duration=5000">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=600&height=50&lines=Hi👋,+I'm+Ishara+Dias;Undergraduate+at+NSBM+Green+University;&center=true&vCenter=true&size=25&pause=2000&duration=5000">
 </p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishara-dias&label=Profile%20views&color=0e75b6&style=flat" alt="ishara-dias" /> </p>
 
