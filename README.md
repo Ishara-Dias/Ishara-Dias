@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ishara Dias</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=000080&width=600&height=50&lines=Hi👋,+I'm+Ishara+Dias;Undergraduate+at+NSBM+Green+University;&center=true&vCenter=true&size=25&pause=2000&duration=5000">
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishara-dias&label=Profile%20views&color=0e75b6&style=flat" alt="ishara-dias" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishara-dias" alt="ishara-dias" /></a> </p>
